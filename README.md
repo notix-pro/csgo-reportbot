@@ -1,1 +1,1 @@
-# csgo-reportbot
+# notix-reportbot
