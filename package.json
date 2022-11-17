@@ -1,0 +1,29 @@
+{
+  "name": "notix-reportbot",
+  "version": "1.0.0",
+  "description": "NOTIX ReportBot - Discord CSGO ReportBot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notix-pro/csgo-reportbot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "csgo",
+    "csgo",
+    "reportbot"
+  ],
+  "author": "NOTIX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notix-pro/csgo-reportbot/issues"
+  },
+  "homepage": "https://github.com/notix-pro/csgo-reportbot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
